@@ -1,3 +1,6 @@
+
+video link: https://drive.google.com/file/d/1AMySsv2s--86U9mWsexWtTsay27wsD_y/view?usp=drivesdk
+
 # HydroGuard AI — Water Crisis Prediction for Durban / eThekwini
 
 **GitHub:** https://github.com/MrNtuli/HydroGuard-AI (private; group collaborators invited)
